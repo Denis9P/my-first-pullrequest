@@ -5,3 +5,5 @@
 This is a part of new history! (с) Ivan Dok
 
 «Чем умнее человек, тем легче он признает себя дураком» - (c) Альберт Эйнштейн 
+
+test test
